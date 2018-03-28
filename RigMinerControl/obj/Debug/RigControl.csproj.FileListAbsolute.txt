@@ -1,0 +1,7 @@
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\bin\Debug\RigControl.exe.config
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\bin\Debug\RigControl.exe
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\bin\Debug\RigControl.pdb
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\obj\Debug\RigControl.Properties.Resources.resources
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\obj\Debug\RigControl.csproj.GenerateResource.Cache
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\obj\Debug\RigControl.exe
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\obj\Debug\RigControl.pdb

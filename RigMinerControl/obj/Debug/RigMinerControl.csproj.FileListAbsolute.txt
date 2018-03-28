@@ -1,0 +1,16 @@
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\bin\Debug\RigMinerControl.exe.config
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\bin\Debug\RigMinerControl.exe
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\bin\Debug\RigMinerControl.pdb
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\obj\Debug\RigMinerControl.csprojResolveAssemblyReference.cache
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\obj\Debug\RigMinerControl.Properties.Resources.resources
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\obj\Debug\RigMinerControl.csproj.GenerateResource.Cache
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\obj\Debug\RigMinerControl.exe
+D:\Project\C#\[Projects]\[Project]\RigControl\RigControl\obj\Debug\RigMinerControl.pdb
+D:\Project\C#\[Projects]\[Project]\RigMinerControl\RigMinerControl\bin\Debug\RigMinerControl.exe.config
+D:\Project\C#\[Projects]\[Project]\RigMinerControl\RigMinerControl\bin\Debug\RigMinerControl.exe
+D:\Project\C#\[Projects]\[Project]\RigMinerControl\RigMinerControl\bin\Debug\RigMinerControl.pdb
+D:\Project\C#\[Projects]\[Project]\RigMinerControl\RigMinerControl\obj\Debug\RigMinerControl.Properties.Resources.resources
+D:\Project\C#\[Projects]\[Project]\RigMinerControl\RigMinerControl\obj\Debug\RigMinerControl.csproj.GenerateResource.Cache
+D:\Project\C#\[Projects]\[Project]\RigMinerControl\RigMinerControl\obj\Debug\RigMinerControl.csproj.CoreCompileInputs.cache
+D:\Project\C#\[Projects]\[Project]\RigMinerControl\RigMinerControl\obj\Debug\RigMinerControl.exe
+D:\Project\C#\[Projects]\[Project]\RigMinerControl\RigMinerControl\obj\Debug\RigMinerControl.pdb
